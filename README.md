@@ -6,13 +6,13 @@ Scheduling is a process to finish work on time. CPU scheduling is a process that
  
  ## Using process memory for efficient algorithms
  The process memory is divided into 4 catgeories:
-  ### Text:
+  ## Text:
     Integrated program code read from fixed storage when the program is launched.
-  ### Data:
+  ## Data:
     Global and static variables distributed from executed programs.
-  ### Heap:
+  ## Heap:
    Data structure used for dynamic memory allocation and is managed by calls through CRUD
-  ### Stack:
+  ## Stack:
    Used for local variables. The space in the stack data structure is reserved for local variables.
 
 ## Process Scheduling and why we do it
