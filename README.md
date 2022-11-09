@@ -4,7 +4,7 @@ Scheduling is a process to finish work on time. CPU scheduling is a process that
 ## What is a process?
  In computer science, a process is the insurance of a computer program that is being executed by one or many threads. It contains the programming code and its usage/activity. The algorithms used in this project are designed specifically for x86_64 GCC, G++, and clang compilers.
  
- ## Using process memory for efficient algorithms
+## Using process memory for efficient algorithms
  The process memory is divided into 4 catgeories:
  * Text: Integrated program code read from fixed storage when the program is launched.
  * Data: Global and static variables distributed from executed programs.
@@ -12,5 +12,9 @@ Scheduling is a process to finish work on time. CPU scheduling is a process that
  * Stack: Used for local variables. The space in the stack data structure is reserved for local variables.
 
 ## Process Scheduling and why we do it
-  Scheduling:
+ * Scheduling: An important area when it comes to computer environments. Scheduling allows programs to work on the CPU through the Operating System of the computer.
+
+ * Process Scheduling: Let's the OS allocate CPU time for each process i.e. algorithms. Another reason why we use the process scheduling is due to tha fact that it keeps the CPU busy at all times which will allow us to get accurate estimates when we measure for performance. 
     
+# Design Patterns for Scheduling Algorithms
+* 
